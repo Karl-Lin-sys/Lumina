@@ -1,0 +1,5 @@
+{
+  "name": "Lumina",
+  "description": "A creative writing interface that analyzes images to ghostwrite story openings, featuring text-to-speech narration and an AI co-author chat.",
+  "requestFramePermissions": []
+}
